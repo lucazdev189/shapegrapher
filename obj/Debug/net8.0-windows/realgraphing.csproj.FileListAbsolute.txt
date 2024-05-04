@@ -1,0 +1,17 @@
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\bin\Debug\net8.0-windows\realgraphing.exe
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\bin\Debug\net8.0-windows\realgraphing.deps.json
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\bin\Debug\net8.0-windows\realgraphing.runtimeconfig.json
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\bin\Debug\net8.0-windows\realgraphing.dll
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\bin\Debug\net8.0-windows\realgraphing.pdb
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\obj\Debug\net8.0-windows\realgraphing.Form1.resources
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\obj\Debug\net8.0-windows\realgraphing.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\obj\Debug\net8.0-windows\realgraphing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\obj\Debug\net8.0-windows\realgraphing.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\obj\Debug\net8.0-windows\realgraphing.AssemblyInfo.cs
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\obj\Debug\net8.0-windows\realgraphing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\obj\Debug\net8.0-windows\realgraphing.dll
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\obj\Debug\net8.0-windows\refint\realgraphing.dll
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\obj\Debug\net8.0-windows\realgraphing.pdb
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\obj\Debug\net8.0-windows\realgraphing.genruntimeconfig.cache
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\obj\Debug\net8.0-windows\ref\realgraphing.dll
+C:\Users\Admin\Downloads\coding stuff\realgraphing\realgraphing\obj\Debug\net8.0-windows\realgraphing.Properties.Resources.resources
